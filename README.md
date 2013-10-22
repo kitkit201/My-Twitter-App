@@ -1,4 +1,0 @@
-MyTwitterApp
-============
-
-HW 3
