@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <item
+        android:id="@+id/action_refresh"
+        android:showAsAction="ifRoom|withText"
+        android:orderInCategory="100"
+        android:title="refresh" 
+        android:icon="@drawable/button_refresh"
+        />
+   
+    
+    <item
+        android:id="@+id/action_compose"
+        android:showAsAction="ifRoom|withText"
+        android:orderInCategory="100"
+        android:title="compose" 
+        android:icon="@drawable/button_add"
+        />
+     
+</menu>
