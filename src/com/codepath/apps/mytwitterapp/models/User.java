@@ -42,4 +42,8 @@ public class User extends BaseModel {
 			
 			return u;
 		}
+		
+		public String getTagline(){
+			return getString("description");
+		}
 }
